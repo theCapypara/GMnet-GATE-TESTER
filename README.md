@@ -1,9 +1,8 @@
-![GMnet GATE.ACCESS](http://parakoopa.de/GMnet/gatetester.png)
+![GMnet GATE.TESTER](http://parakoopa.de/GMnet/gatetester.png)
 #GMnet GATE.TESTER
 This web tool is a debugging tool for
 
 * GMnet GATE
-* GMnet GATE.ACCESS
 * GMnet GATE.PUNCH
 
 
@@ -16,12 +15,9 @@ http://gmnet.parakoopa.de/gatetester
 
 ##Other repositories
 
-* [GMnet ENGINE](https://github.com/Parakoopa/GMnet-ENGINE) (Repository for GMnet ENGINE/CORE/ACCESS and PUNCH)
+* [GMnet ENGINE](https://github.com/Parakoopa/GMnet-ENGINE) (Repository for GMnet ENGINE/CORE and PUNCH)
 * [GMnet PUNCH demo project](https://github.com/Parakoopa/GMnet-PUNCH-Demo)
-* [GMnet ACCESS demo project](https://github.com/Parakoopa/GMnet-ACCESS-Demo)
-* [GMnet GATE.ACCESS](https://github.com/Parakoopa/GMnet-GATE-ACCESS)
 * [GMnet GATE.PUNCH](https://github.com/Parakoopa/GMnet-GATE-PUNCH)
-* [GMnet GATE](https://github.com/Parakoopa/GMnet-GATE) (Installer and service that combines GATE.ACCESS and GATE.PUNCH)
 * [Manual pages](https://github.com/Parakoopa/GMnet-manual) (Get and edit the manual pages found on http://gmnet.parakoopa.de)
 
 ## Logo
